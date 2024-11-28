@@ -8,7 +8,7 @@
 
 ## News!
 - [EIP-3643](https://eips.ethereum.org/EIPS/eip-3643) has been accepted to its final status!
-- Meet Miriam Makeba at the [Stereopsia XR europe event](https://stereopsia.com/) in december! Come and meet us!
+- Meet Miriam Makeba at the [Stereopsia XR europe event](https://stereopsia.com/speaker_post/kevin-thizy/) in december! Come and meet us!
 
 ## Publications
 - 🇫🇷 "Blockchain: fondement de la confiance numérique" in [PaperJam](https://paperjam.lu/article/blockchain-fondement-confiance)
