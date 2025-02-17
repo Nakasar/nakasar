@@ -5,6 +5,7 @@
 - [AVATAR platform](https://avatar.lu) for [InTech](https://intech.lu/).
 - [Black Ticket](https://blackticket.net/) smart contracts and blockchain integration.
 - [Tokeny Solutions](https://tokeny.com) and [Leandexer](https://www.leandexer.com/).
+- [TCG Collection tools](https://github.com/Nakasar/mtg-collection-tools) to track cards in collection, boosters stats, prices...
 
 ## News!
 - [EIP-3643](https://eips.ethereum.org/EIPS/eip-3643) has been accepted to its final status!
