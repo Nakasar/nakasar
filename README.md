@@ -2,9 +2,9 @@
 
 ## Currently working on
 - [ERC3643 association](https://www.erc3643.org/) ([repo](https://github.com/ERC-3643/ERC-3643)) and [ONCHAINID](https://www.onchainid.com/) ([repo](https://github.com/onchain-id/solidity)).
+- [BREIGN Platform](https://breign.eu) for [InTech](https://intech.lu/).
 - [AVATAR platform](https://avatar.lu) for [InTech](https://intech.lu/).
-- [Black Ticket](https://blackticket.net/) smart contracts and blockchain integration.
-- [Tokeny Solutions](https://tokeny.com) and [Leandexer](https://www.leandexer.com/).
+- A company blockchain custody infrastructure.
 - [TCG Collection tools](https://github.com/Nakasar/mtg-collection-tools) to track cards in collection, boosters stats, prices...
 
 ## News!
